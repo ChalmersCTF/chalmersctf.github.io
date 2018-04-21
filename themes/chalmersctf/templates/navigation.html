@@ -1,0 +1,24 @@
+
+<nav>
+    <h4>~ About</h4>
+    <ul>
+        {% for page in pages if page.category == "about" %}
+        <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <h4>~ Useful stuff</h4>
+    <ul>
+        {% for page in pages if page.category == "useful-stuff" %}
+        <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <h4>~ Get informed</h4>
+    <ul>
+        {% for category, articles in categories %}
+            <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a></li>
+        {% endfor %}
+    </ul>
+
+</nav>

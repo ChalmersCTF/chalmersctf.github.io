@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% if article %}
+    <div class="post">
+        <h1 class="post-headline"><a href="{{ SITEURL }}/{{ article.url}}">{{ article.title|striptags }}</a></h1>
+        <h5 class="post-date">Posted in {{ article.category }} on {{ article.date|strftime('%Y-%m-%d %H:%I:%S') }}</h5>
+        <p>{{ article.content }}</p>
+    </div>
+{% else %}
+    <div class="post">
+    <p>Uhmm...is something supposed be here?</p>
+    </div>
+{% endif %}
+
+{% endblock %}

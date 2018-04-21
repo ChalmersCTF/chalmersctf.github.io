@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% if page %}
+    <div class="post">
+        <h1 class="post-headline"><a href="{{SITEURL}}/{{ page.slug }}">{{ page.title }}</a></h1>
+        {{ page.content }}
+    </div>
+{% else %}
+    <div class="post">
+    <p>Uhmm...is something supposed be here?</p>
+    </div>
+{% endif %}
+
+{% endblock %}
