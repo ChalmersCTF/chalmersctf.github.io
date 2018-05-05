@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ChalmersCTF - events</title><link href="https://chalmersctf.se/" rel="alternate"></link><link href="https://chalmersctf.se/feeds/events.atom.xml" rel="self"></link><id>https://chalmersctf.se/</id><updated>2017-12-02T13:58:28+01:00</updated><entry><title>OWASPxChalmersCTF</title><link href="https://chalmersctf.se/events/owaspxchalmersctf-event/" rel="alternate"></link><published>2017-12-02T13:58:28+01:00</published><updated>2017-12-02T13:58:28+01:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-12-02:/events/owaspxchalmersctf-event/</id><summary type="html">&lt;p&gt;Do you think CTF seems fun but never got around to it? Do you not know what a CTF even is? (Competitions in security). Then this event is for you! Together with Chalmers CTF team we will have a evening filled to the brim with all that have to do …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Do you think CTF seems fun but never got around to it? Do you not know what a CTF even is? (Competitions in security). Then this event is for you! Together with Chalmers CTF team we will have a evening filled to the brim with all that have to do with CTFs!
+&lt;br /&gt;&lt;br /&gt;
+You will have the chance to get help to set up OWASP JuiceShop, look at common tools used in different CTFs and how to continue on after this event with playing CTFs. And the main piece of the evening will be our very own CTF (built by Chalmers CTF and OWASP) with prizes on the line!
+&lt;br /&gt;&lt;br /&gt;
+Thanks to our sponsor, &lt;a href="https://kits.se"&gt;KITS&lt;/a&gt;, there will be a bit bigger main prize but also food and refreshments during the evening! (This event will be alcohol-free!)
+&lt;br /&gt;&lt;br /&gt;
+This is a event aimed towards beginners! We do not discourage people that have played before to attend but we will start from the very beginning and work our way up!
+&lt;br /&gt;&lt;br /&gt;
+The event will be kept at Chalmers in a workshop-style. So bring your own laptop! Internet will be provided!
+Those that want to prepare can install and make sure Docker works on their machines (if interested in running the OWASP JuiceShop or similar locally on your machine)
+&lt;br /&gt;&lt;br /&gt;
+When: 2017-12-07&lt;br&gt;
+Time: 18:00 - 21:00&lt;br&gt;
+Place: NC Building (Idéläran Chalmers Johanneberg, Rännvägen 8)&lt;br&gt;
+&lt;br /&gt;
+CTF Platform: &lt;a href="https://owaspx.cctf.se/"&gt;https://owaspx.cctf.se/&lt;/a&gt;&lt;br&gt;
+&lt;br /&gt;
+Tickets will be released on 5/12 19:00, at &lt;a href="https://www.eventbrite.com/e/owaspxchalmersctf-tickets-40961553108"&gt;https://www.eventbrite.com/e/owaspxchalmersctf-tickets-40961553108&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Recruitment meeting!</title><link href="https://chalmersctf.se/events/recruitment-meeting/" rel="alternate"></link><published>2017-04-23T09:10:17+02:00</published><updated>2017-04-23T09:10:17+02:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-04-23:/events/recruitment-meeting/</id><summary type="html">&lt;p&gt;Hi all!
+&lt;br /&gt;&lt;br /&gt;
+It is with great pleasure that I write this. We have survived. We started out with just an idea and now we are here, with a ever growing community of people interested in playing CTF's with us!&lt;br&gt;
+&lt;br /&gt;
+It have gone so well that now that most of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi all!
+&lt;br /&gt;&lt;br /&gt;
+It is with great pleasure that I write this. We have survived. We started out with just an idea and now we are here, with a ever growing community of people interested in playing CTF's with us!&lt;br&gt;
+&lt;br /&gt;
+It have gone so well that now that most of the current Staff is graduating Chalmers CTF will still live on. But the last step to make that reality is new people taking over! And this is where you come in!&lt;br&gt;
+&lt;br /&gt;
+Interested in Open Source, Software Craftmanship and Security?&lt;br&gt;
+&lt;br /&gt;
+Great! Then you will be happy to hear that we are going to apply to become an official student association under the student union. With that comes a lot of new oppertunites and potential to grow! Both for you and the group!
+&lt;br /&gt;
+We will have a meeting on the 27th of April where Staff will present exactly what we have done during our time at the helm, where we would want to go in the future (including the upcoming events we have planned before summer), what support is given and what is to be expected of you if you take over. Then we also will have a open discussion! We are the sum of our parts so of course we want to hear from our memebers! Even if you are not interested in joining in an official fashion we would love to hear from you! So drop by!&lt;br&gt;
+&lt;br /&gt;
+When: 27th of April, 17:00&lt;br&gt;
+Where: EA&lt;br&gt;
+What: Info-meeting for leading a brand new student association!&lt;br&gt;
+&lt;br /&gt;
+Facebookevent: &lt;a href="https://www.facebook.com/events/240761556396412/"&gt;https://www.facebook.com/events/240761556396412/&lt;/a&gt;&lt;br&gt;
+&lt;br /&gt;
+Sign up there to get Fika! (If you do not use Facebook, message @weckzen on Slack and you will get fika too)&lt;br&gt;
+&lt;br /&gt;
+Regards,&lt;br&gt;
+Staff&lt;/p&gt;</content></entry><entry><title>Injection Workshop!</title><link href="https://chalmersctf.se/events/injection-workshop-event/" rel="alternate"></link><published>2017-03-18T18:20:33+01:00</published><updated>2017-03-18T18:20:33+01:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-03-18:/events/injection-workshop-event/</id><summary type="html">&lt;p&gt;Hi all!&lt;br&gt;
+&lt;br /&gt;
+You are welcome to join us for this workshop where we will introduce the basic concept of injections in the security context.
+&lt;br /&gt;&lt;br /&gt;
+You will have the opportunity to learn and test several different types of injections ranging from XSS, SQL to OS.
+&lt;br /&gt;&lt;br /&gt;
+This is a introductuary workshop for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi all!&lt;br&gt;
+&lt;br /&gt;
+You are welcome to join us for this workshop where we will introduce the basic concept of injections in the security context.
+&lt;br /&gt;&lt;br /&gt;
+You will have the opportunity to learn and test several different types of injections ranging from XSS, SQL to OS.
+&lt;br /&gt;&lt;br /&gt;
+This is a introductuary workshop for beginners!
+&lt;br /&gt;&lt;br /&gt;
+Please bring your own laptop!
+&lt;br /&gt;&lt;br /&gt;
+Where: EA&lt;br&gt;
+When: 2017-03-21 17:15&lt;/p&gt;</content></entry><entry><title>Let's play 0CTF</title><link href="https://chalmersctf.se/events/lets-play-0ctf/" rel="alternate"></link><published>2017-03-14T11:42:43+01:00</published><updated>2017-03-14T11:42:43+01:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-03-14:/events/lets-play-0ctf/</id><summary type="html">&lt;p&gt;Hey everybody!&lt;br&gt;
+&lt;br /&gt;
+This Saturday (2017-03-18) we will meet at Chalmers and play the 0CTF together. We plan on playing this to the end and hopefully going to China to qualify for DEF CON CTF 2017.
+&lt;br /&gt;&lt;br /&gt;
+Some information from the organisers:
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Top 12 teams in 0CTF Quals will be qualified for …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Hey everybody!&lt;br&gt;
+&lt;br /&gt;
+This Saturday (2017-03-18) we will meet at Chalmers and play the 0CTF together. We plan on playing this to the end and hopefully going to China to qualify for DEF CON CTF 2017.
+&lt;br /&gt;&lt;br /&gt;
+Some information from the organisers:
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Top 12 teams in 0CTF Quals will be qualified for the Final round, which will be held in Shenzhen, China during the early weeks of June.
+The champion of 0CTF Finals will be qualified for DEF CON 25 CTF!&lt;br&gt;
+&lt;br /&gt;
+We will partly cover the accommodation and transportation fees for the qualified teams.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;Time and place:&lt;/h3&gt;
+&lt;p&gt;We will meet at the EA lecture room at Chalmers 11:00. Bring your computers and if you have any power extensions, bring those too. During the breaks we can together get some food and recharge our batteries.
+&lt;br /&gt;&lt;br /&gt;
+The CTF goes on for 48 hours and begins 01:00 on Saturday and ends on Monday 01:00.
+&lt;br /&gt;&lt;br /&gt;
+You are welcome to join and play for as long as you want, if this is the first CTF you will play don't fear anything! We will work with you and guide you through the challenges so you get the chance to submit some flags ;) At the end of the day, we are all students and we are all learning as we play!
+&lt;br /&gt;&lt;br /&gt;
+Join us this Saturday and together we can get some flags!!
+&lt;br /&gt;&lt;br /&gt;
+Facebook event here: &lt;a href="https://www.facebook.com/events/1374559172608131/"&gt;https://www.facebook.com/events/1374559172608131/&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Introduction to CTF v2!</title><link href="https://chalmersctf.se/events/introduction-to-ctf-v2/" rel="alternate"></link><published>2017-02-21T13:56:01+01:00</published><updated>2017-02-21T13:56:01+01:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-02-21:/events/introduction-to-ctf-v2/</id><summary type="html">&lt;p&gt;Hi all!&lt;br&gt;
+&lt;br /&gt;
+We will re-run the workshop we had last time again due to popular demand!
+&lt;br /&gt;&lt;br /&gt;
+Our next workshop will be on Tuesday the 28/2!
+&lt;br /&gt;&lt;br /&gt;
+It is going to be a introduction to how to play CTF, what resources exists out there and how to use them.
+&lt;br /&gt;&lt;br /&gt;
+It will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi all!&lt;br&gt;
+&lt;br /&gt;
+We will re-run the workshop we had last time again due to popular demand!
+&lt;br /&gt;&lt;br /&gt;
+Our next workshop will be on Tuesday the 28/2!
+&lt;br /&gt;&lt;br /&gt;
+It is going to be a introduction to how to play CTF, what resources exists out there and how to use them.
+&lt;br /&gt;&lt;br /&gt;
+It will start with a short introduction about what is a CTF, what different forms are there and why do we play.
+&lt;br /&gt;&lt;br /&gt;
+It will follow with a live demo how to get started with some of the beginner resources but also a intermediate resource for those that are ready to move along.
+&lt;br /&gt;&lt;br /&gt;
+After the introduction and demo we will split into groups based on what you want to learn and your current skill to get started with some more hands on experience with the resources presented.
+&lt;br /&gt;&lt;br /&gt;
+We will set up at 17:15 and prepare, so you are welcome by then already to ask questions or just hang out to talk.&lt;/p&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Date: 28/2&lt;br&gt;
+Time: 17:15&lt;br&gt;
+Where: EA (EDIT building)&lt;/p&gt;</content></entry><entry><title>Introduction to CTF!</title><link href="https://chalmersctf.se/events/introduction-to-ctf/" rel="alternate"></link><published>2017-02-02T21:43:01+01:00</published><updated>2017-02-02T21:43:01+01:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-02-02:/events/introduction-to-ctf/</id><summary type="html">&lt;p&gt;Hi all!
+&lt;br /&gt;&lt;br /&gt;
+Our next workshop will be on Tuesday the 7/2!
+&lt;br /&gt;&lt;br /&gt;
+It is going to be a introduction to how to play CTF, what resources exists out there and how to use them.
+&lt;br /&gt;&lt;br /&gt;
+It will start with a short introduction about what is a CTF, what different forms are …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi all!
+&lt;br /&gt;&lt;br /&gt;
+Our next workshop will be on Tuesday the 7/2!
+&lt;br /&gt;&lt;br /&gt;
+It is going to be a introduction to how to play CTF, what resources exists out there and how to use them.
+&lt;br /&gt;&lt;br /&gt;
+It will start with a short introduction about what is a CTF, what different forms are there and why do we play.
+&lt;br /&gt;&lt;br /&gt;
+It will follow with a live demo how to get started with some of the beginner resources but also a intermediate resource for those that are ready to move along.
+&lt;br /&gt;&lt;br /&gt;
+After the introduction and demo we will split into groups based on what you want to learn and your current skill to get started with some more hands on experience with the resources presented.
+&lt;br /&gt;&lt;br /&gt;
+We will set up at 17:15 and prepare, so you are welcome by then already to ask questions or just hang out to talk.
+&lt;br /&gt;&lt;br /&gt;
+We will get started at 17:30 for those that need some extra time to get here from their classes.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Date: 7/2&lt;br&gt;
+Time: 17:15 (Start at 17:30)&lt;br&gt;
+Where: EA (EDIT building)  &lt;/p&gt;</content></entry><entry><title>Insomni'hack teaser CTF</title><link href="https://chalmersctf.se/events/insomnihack-teaser-ctf/" rel="alternate"></link><published>2017-01-18T11:47:06+01:00</published><updated>2017-01-18T11:47:06+01:00</updated><author><name>admin</name></author><id>tag:chalmersctf.se,2017-01-18:/events/insomnihack-teaser-ctf/</id><summary type="html">&lt;p&gt;On Saturday the 21st of January 2017 the teaser CTF for the Insomni'hack Conference starts. And we want to participate. :D We will meet at 12 am on saturday in front of the student union building. 
+&lt;br /&gt;&lt;br /&gt;
+If you are interested please signup at the facebook event: &lt;a href="https://www.facebook.com/events/1884200625200327/"&gt;https://www.facebook.com …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;On Saturday the 21st of January 2017 the teaser CTF for the Insomni'hack Conference starts. And we want to participate. :D We will meet at 12 am on saturday in front of the student union building. 
+&lt;br /&gt;&lt;br /&gt;
+If you are interested please signup at the facebook event: &lt;a href="https://www.facebook.com/events/1884200625200327/"&gt;https://www.facebook.com/events/1884200625200327/&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;From the organizers:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There will be a round of teaser January 21st 2017, running for 36 hours, no limit of participants. Check out &lt;a href="http://teaser.insomnihack.ch/"&gt;http://teaser.insomnihack.ch/&lt;/a&gt;&lt;br&gt;
+&lt;br /&gt;
+Github repo with past challenges and solutions: https://github.com/Insomnihack/&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you want to play remotely with us, we will post all the information you need in the slack channel.&lt;/p&gt;
+&lt;p&gt;P.S. We don't have a room yet... so we have to look around for a nice place to play. For latecomers: We will post all the information in the slack channel.&lt;/p&gt;
+&lt;p&gt;See you there!&lt;/p&gt;</content></entry></feed>
