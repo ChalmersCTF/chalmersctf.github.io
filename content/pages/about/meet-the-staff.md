@@ -14,7 +14,7 @@ Chalmers Student, probably one of the best.
 ### Andreas Lindhé
 Chalmers Student, probably one of the best.
 
-### Robert Gustavsson
+### Robert Gustafsson
 Chalmers Student, probably one of the best.
 
 ### Erik Thorsell

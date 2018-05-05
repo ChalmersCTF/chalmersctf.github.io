@@ -12,6 +12,7 @@ $ cd chalmersctf.github.io
 $ python -m venv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
+$ git checkout dev
 ```
 
 This will create a new workspace inside the `venv` folder which contains a Python interpreter. By running `source venv/bin/activate` you will update your shell to use all the python related commands found inside the `venv` folder. This means when you install new packages, i.e. from requirements.txt, they will be installed into the `venv` folder, instead of your system, which is nice because it doesn't pollute your system with a bunch of python packages.
@@ -28,13 +29,12 @@ Simply run `make devserver` which will create a simple HTTP web server listening
 
 ## How to publish to Github
 
-When you are done editing, follow the these commands in order to push to github:
+All modifications should be done in the `dev` branch. When you are done editing, run the following command: `make github`. This updates the master branch with the new content found in the output folder.
 
+Don't forget to push the new changes to the dev branch as well!
 
 ```
-$ make html
-$ ghp-import -b master output
-$ git push origin master
+$ git add .
+$ git commit -m "specify your changes here"
+$ git push origin dev
 ```
-
-This updates the master branch with the new content found in the output folder.
