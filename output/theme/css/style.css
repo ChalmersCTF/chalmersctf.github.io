@@ -83,7 +83,6 @@ main {
 
 .post-headline {
   color: #ff005e;
-  font-size: 1.4em;
   margin: 0;
 }
 
@@ -93,10 +92,10 @@ main {
 }
 
 .post h1 {color: #ff005e;}
-.post h2 {font-size: 1.3em; color: #fff;}
-.post h3 {font-size: 1.2em; color: #fff;}
-.post h4 {font-size: 1.1em;}
-.post p { margin: 1em 0 1em 0; }
+.post h2 {color: #fff;}
+.post h3 {color: #fff;}
+.post h4 {}
+/*.post p { margin: 1em 0 1em 0; }*/
 
 nav ul {
   list-style: none;
@@ -199,7 +198,6 @@ a:hover {
 }
 /* ============== END MEDIA QUERIES ============== */
 h1 {
-  font-size: 1.2em;
   font-weight: normal;
 }
 
@@ -267,4 +265,10 @@ main ul {
   border-radius: 8px;
   padding: .5em;
   border: 1px solid #221d5f;
+}
+
+
+.vdivider {
+  border: 1px solid #161335;
+  margin-top: 1em;" 
 }
